@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, shimonsolo, Inc.",
+        "name": "luuxis, shimonsolo Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/shimonsolo/Thunder-Launcher3.git"
+        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
     }
 }
