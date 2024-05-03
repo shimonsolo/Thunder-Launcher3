@@ -1,7 +1,7 @@
 {
     "name": "Thunder-Launcher",
     "preductname": "Thunder Launcher",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://almendralokgfndjs.000webhostapp.com/asd/",
+    "url": "https://unsunny-disciplines.000webhostapp.com/launcher/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
